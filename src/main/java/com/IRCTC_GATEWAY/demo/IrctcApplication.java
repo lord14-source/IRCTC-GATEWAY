@@ -11,7 +11,7 @@ public class IrctcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IrctcApplication.class, args);
-		System.out.println("Running");
+		System.out.println("Running the Gatrway");
 	}
 
 }
